@@ -1,5 +1,5 @@
 package com.KP.simonicv2;
-
+//>.<
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.graphics.Color;
